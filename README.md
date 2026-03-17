@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Software professional with ~3 years of experience<br><br>🔄 Currently transitioning from Software Tester to Software Developer<br><br>☕ Strong focus on Core Java and Spring Boot development<br><br>🔧 Experienced in building RESTful APIs and backend systems<br><br>📊 Hands-on with handling large data processing and real-world project scenarios<br><br>🧠 Passionate about problem-solving and writing clean, scalable code<br><br>🚀 Actively working on personal projects to strengthen development skills<br><br>🌐 Interested in freelancing opportunities in backend development<br><br>📚 Continuously learning and improving technical expertise
+💻 Software professional <br>☕ Strong focus on Core Java and Spring Boot development<br>🔧 Experienced in building RESTful APIs and backend systems<br>📊 Hands-on with handling large data processing and real-world project scenarios<br>🧠 Passionate about problem-solving and writing clean, scalable code<br>🚀 Actively working on personal projects to strengthen development skills<br>🌐 Interested in freelancing opportunities in backend development<br>📚 Continuously learning and improving technical expertise
 
 
 ## 🌐 Socials:
